@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vladkrasovsky.github.io/icecream",
+  "homepage": "https://vi7ality.github.io/icecream",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /icecream/"
